@@ -1,6 +1,6 @@
 # Status: implemented
 
-iOS 클라이언트와 Spring 서버 구조로 채팅 서비스를 개발하고 있습니다.
+iOS 클라이언트와 SPRING 서버 구조로 채팅 서비스를 개발했습니다.
 
 ---
 
