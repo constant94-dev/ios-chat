@@ -1,6 +1,6 @@
 # Status: implemented
 
-iOS 클라이언트와 SPRING 서버 구조로 채팅 서비스를 개발했습니다.
+iOS 클라이언트와 SPRING 서버로 채팅을 구현했습니다.
 
 ---
 
@@ -24,15 +24,7 @@ iOS 클라이언트와 SPRING 서버 구조로 채팅 서비스를 개발했습�
 
 ## WekSocket 브라우저 통신 (Safari, Chrome 확인)
 
-![feature](server/images/open-chat-room.png)
-
----
-
 ![feature](server/images/communication-chat-room.png)
-
----
-
-![feature](server/images/exit-chat-room.png)
 
 ---
 
@@ -45,17 +37,7 @@ iOS 클라이언트와 SPRING 서버 구조로 채팅 서비스를 개발했습�
 
 ## STOMP 브라우저 통신 (Safari, Chrome, Edge 확인)
 
-![feature](server/images/notification-chat-room.png)
-
----
-
 ![feature](server/images/create-chat-room.png)
-
----
-
-![feature](server/images/same-chat-room-communication.png)
-
----
 
 ![feature](server/images/another-chat-room-communication.png)
 
